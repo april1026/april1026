@@ -28,9 +28,7 @@
 
 ###
 
-<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=april1026" alt="wama-top-langs" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=april1026&show_icons=true&count_private=true" alt="wama-github-status" />
+<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=april1026" alt="wama-top-langs" /> <img src="https://github-readme-stats.vercel.app/api?username=april1026&show_icons=true&count_private=true" alt="wama-github-status" />
 
 
 <h2>Connect with me:</h3>
