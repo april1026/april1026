@@ -5,7 +5,7 @@
 
 🔭  I’m currently working on **a Laravel project with Tailwind CSS**
 
-🌱  I’m currently learning **Docker**
+🌱  I’m currently learning **Docker & Vuejs**
 
 👯  I’m looking to collaborate on [NCU App](https://github.com/NCUAppTeam/NCU-App)
 
