@@ -11,7 +11,7 @@
 
 📝  I regularly write articles on [https://medium.com/@wama.tw](https://medium.com/@wama.tw)
 
-📫  How to reach me **watherwin+github@gmail.com**
+📫  How to reach me **watherwin+github <at> gmail <dot> com**
 
 
 <h3 align="left">Languages and Tools:</h3>
