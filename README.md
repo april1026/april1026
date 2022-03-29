@@ -28,7 +28,7 @@
 
 ###
 
-<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=april1026" alt="wama-top-langs" /> <img src="https://github-readme-stats.vercel.app/api?username=april1026&show_icons=true&count_private=true" alt="wama-github-status" />
+<img class="float-left pr-5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wama-tw" alt="wama-top-langs" /> <img src="https://github-readme-stats.vercel.app/api?username=wama-tw&show_icons=true&count_private=true" alt="wama-github-status" />
 
 
 <h2>Connect with me:</h3>
@@ -36,4 +36,4 @@
 <a href="https://medium.com/wama.tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="wama.tw" height="30" width="40" /></a>
 
 ###
-<img align="right" src="https://gpvc.arturio.dev/april1026" alt="wama-profile-views" />
+<img align="right" src="https://gpvc.arturio.dev/wama-tw" alt="wama-profile-views" />
