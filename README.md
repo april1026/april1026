@@ -24,7 +24,7 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 ##
-<img src="https://github-profile-trophy.vercel.app/?username=april1026" alt="wama-trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=wama-tw" alt="wama-trophy" />
 
 ###
 
