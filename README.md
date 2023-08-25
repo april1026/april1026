@@ -3,15 +3,15 @@
 
 <h2>About me:</h2>
 
-🔭  I’m currently working on **a Laravel project with Tailwind CSS**
+🔭  I’m currently working on **Azure as a Research & Development Intern at Microsoft**
 
-🌱  I’m currently learning **Docker & nodejs**
+🌱  I’m currently learning **MLOps on Azure**
 
-👯  I’m looking to collaborate on [NCU App](https://github.com/NCUAppTeam/NCU-App)
+👯  I’m looking to collaborate on attending Hackthon (pls connect me if you are looking for partner)
 
 📝  I regularly write articles on [https://medium.com/@wama.tw](https://medium.com/@wama.tw)
 
-📫  How to reach me **watherwin+github at gmail dot com**
+📫  How to reach me **wama.taiwan+github at gmail dot com**
 
 
 <h3 align="left">Languages and Tools:</h3>
